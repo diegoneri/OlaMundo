@@ -8,7 +8,7 @@ namespace OlaMundo
         {
            Console.ForegroundColor = ConsoleColor.Cyan;
            Console.WriteLine();
-           Console.WriteLine("Olá Usuário eu me chamo Luiza Gonçales Vanelli");
+           Console.WriteLine("Olá Usuário eu me chamo Diego");
         }
     }
 }
